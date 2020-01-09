@@ -1,0 +1,7 @@
+.container{
+    border: black solid 20px;
+    max-width: 100px;
+}
+.title-red{
+    color: red;
+}
